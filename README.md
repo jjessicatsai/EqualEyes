@@ -1,7 +1,7 @@
 # EqualEyes
 
 ## What is EqualEyes?
-EqualEyes is a Chrome Extension that offers enhanced readability/accessibility for webpages. Features include Dark Mode, High Contrast Mode, Smart Contrast Mode, Enlarge Text, and Increase Text Spacing
+EqualEyes is a Chrome Extension that offers enhanced readability/accessibility for webpages. Features include Dark Mode, High Contrast Mode, Smart Contrast Mode, Enlarge Text, and Increase Text Spacing. Please note the extension is not perfect, so there may be some bugs... (to be fixed)
 
 ## How to use
 1. Download the `EqualEyes.zip` file
